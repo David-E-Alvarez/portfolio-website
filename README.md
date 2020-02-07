@@ -1,4 +1,4 @@
-[link to portfolio](http://github.com)
+[link to portfolio](https://david-e-alvarez.github.io/portfolio-website/)
 
 # Build A Portfolio Website
 
